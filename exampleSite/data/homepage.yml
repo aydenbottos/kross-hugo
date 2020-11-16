@@ -58,10 +58,10 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: Websites
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: I will design you a beautiful, responsive website using any stack that
+      you wish to use, eg. Hugo, Bootstrap, Vue, WordPress, or even Wix.
     highlighted: false
   - title: UX Design
     icon: ti-vector
