@@ -68,10 +68,10 @@ service:
     content: I will oversee the day to day operations of your Linux server, including
       security, common tasks, debugging, and migration.
     highlighted: true
-  - title: Interaction Design
+  - title: Cybersecurity
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: I will secure systems from personal machines to enterprise-level servers
+      to be 99% safe from attacks.
     highlighted: false
 portfolio:
   enable: true
