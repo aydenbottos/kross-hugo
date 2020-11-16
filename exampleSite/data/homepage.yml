@@ -3,11 +3,9 @@ banner:
   title: Hi! I’m <br> Ayden <br> Digital Hacker
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: 'Hi, I''m Ayden Bottos. I''m a hacker at all things tech. I''m only 14,
+    but I''m already pushing the boundaries of what''s possible. My forward-thinking
+    and creativity are a great asset for any project or team.  '
   button:
     enable: true
     label: know more
