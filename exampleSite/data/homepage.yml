@@ -30,13 +30,33 @@ experience:
   enable: true
   title: Experience
   item:
+  - logo: ''
+    title: Web Developer
+    company: Self
+    duration: 2020 - Present
+  - logo: ''
+    title: Robot Programmer
+    company: Thunder from Down Under (RoboCup Competition)
+    duration: "2019"
+  - logo: ''
+    title: Linux Cybersecurity Specialist
+    company: Team Mensa (CyberTaipan Competition)
+    duration: "2020"
+  - logo: ''
+    title: Co-Founder
+    company: Get A Feed
+    duration: 2019 - Present
+  - logo: ''
+    title: Co-Founder
+    company: Quixly
+    duration: 2020 - Present
   - logo: images/experience/icon-1.png
     title: Competitor
     company: Child Genius Australia Season 1
     duration: "2018"
   - logo: images/experience/icon-2.png
-    title: Freelancer
-    company: Myself
+    title: IT Consultant
+    company: Evolve Property
     duration: 2019 - Present
 education:
   enable: true
