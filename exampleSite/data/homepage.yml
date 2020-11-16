@@ -8,7 +8,7 @@ about:
     and creativity are a great asset for any project or team.  '
   button:
     enable: true
-    label: know more
+    label: Know More
     URL: about
 skill:
   enable: true
