@@ -63,10 +63,10 @@ service:
     content: I will design you a beautiful, responsive website using any stack that
       you wish to use, eg. Hugo, Bootstrap, Vue, WordPress, or even Wix.
     highlighted: false
-  - title: UX Design
+  - title: System Administration
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: I will oversee the day to day operations of your Linux server, including
+      security, common tasks, debugging, and migration.
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
