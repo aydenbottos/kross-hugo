@@ -23,7 +23,7 @@ skill:
   - title: System Administrator
     progress: 100%
     color: "#bdecf6"
-  - title: Web App
+  - title: Creative Thinking
     progress: 70%
     color: "#ffbcaa"
 experience:
@@ -31,27 +31,23 @@ experience:
   title: Experience
   item:
   - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
+    title: Linux Security Engineer
+    company: 2020 CyberTaipan Competition
+    duration: "2020"
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
-  - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+    title: Freelancer
+    company: Myself
+    duration: 2019 - Present
 education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
+  - title: Linux Foundation Certified Sysadmin
+    year: "2019"
+    academy: The Linux Foundation
+  - title: Certified Information Security Manager
+    year: "2020"
+    academy: ISACA (Information Systems Audit and Control Association)
   - title: Higher Secondary Certificat
     year: "2000"
     academy: Cardiff School
