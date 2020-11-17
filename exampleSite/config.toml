@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+address = "Sydney, Australia"
+author = "Ayden Bottos"
+copyright = "Copyright &copy; 2020"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "aydenbottos12@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = "0404194650"
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -37,7 +37,7 @@ form_action = "#"
 enable = true
 expire_days = 2
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
