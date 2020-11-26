@@ -1,30 +1,18 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-2.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["branding"]
-description: "This is meta description."
-draft: false
+title: Escential Perfumes Webshop
+date: 2019-05-12T12:14:34.000+06:00
+image: images/portfolio/item-2.png
+client: Escential Perfumes
+project_url: https://escentialperfumes.com.au
+categories:
+- wordpress
+- ecommerce
+- sql
+- design
+- sysadmin
+description: WordPress site
+
 ---
-
-#### Project Requirements
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-
-
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+In this project, I was required to design a beautiful webshop for a perfumery. I used WordPress for the site and WooCommerce for the shop. Part of this project was an advanced manual SQL database migration between incompatible software versions and database format, structure, and design, as well as multiple full site migrations to different hosts using SFTP. I also experimented using AWS Lightsail twice as a host for the website due to a slow hosting package. This involved configuring an email server, extensive DNS setup, and SSL config. The first time, I used OpenLiteSpeed for its performance and the second time NGINX + FastCGI for performance and compatibility. 
