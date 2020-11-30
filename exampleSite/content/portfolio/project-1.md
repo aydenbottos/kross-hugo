@@ -1,7 +1,7 @@
 ---
 title: Child Genius Competition
 date: 2019-05-12T12:14:34.000+06:00
-image: images/portfolio/item-1.png
+image: images/cg1_contestant_ayden_01.jpg
 client: Competition
 project_url: ''
 categories:
@@ -18,4 +18,4 @@ description: Competition
 ---
 #### Project Details
 
-In this competition, my mind was challenged by many subjects. These included advanced spelling, advanced mathematics, extensive memory tests, scientific knowledge, and logical abilities.                
+In this competition, my mind was challenged by many subjects. These included advanced spelling, advanced mathematics, extensive memory tests, scientific knowledge, and logical abilities.
