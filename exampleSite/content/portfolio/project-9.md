@@ -1,7 +1,7 @@
 ---
 title: CyberTaipan
-date: 2019-05-12T06:14:34+00:00
-image: images/portfolio/item-7.png
+date: 2019-05-12T06:14:34.000+00:00
+image: images/cyber.jpg
 client: Team Mensa
 project_url: ''
 categories:
