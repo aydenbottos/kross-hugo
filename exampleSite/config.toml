@@ -25,7 +25,6 @@ google_analytics_id = ""
 home = "Home"
 logo = ""
 phone = "0404194650"
-social = []
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -58,3 +57,12 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
 preloader = "images/91.gif"
+[[params.social]]
+URL = "https://www.linkedin.com/in/aydenbottos/"
+icon = "ti-linkedin"
+[[params.social]]
+URL = "https://twitter.com/AydenBottos"
+icon = "ti-twitter-alt"
+[[params.social]]
+URL = "https://facebook.com/ayden.bottos.77"
+icon = "ti-facebook"
