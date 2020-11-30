@@ -19,7 +19,7 @@ weight = 1
 address = "Sydney, Australia"
 author = "Ayden Bottos"
 copyright = "Copyright &copy; 2020"
-description = "This is meta description"
+description = "Ayden Bottos"
 email = "aydenbottos12@gmail.com"
 google_analytics_id = ""
 home = "Home"
@@ -56,7 +56,7 @@ link = "plugins/shuffle/shuffle.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif"
+preloader = "images/91.gif"
 [[params.social]]
 URL = "#"
 icon = "ti-facebook"
