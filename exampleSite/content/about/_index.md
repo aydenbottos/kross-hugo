@@ -1,7 +1,7 @@
 ---
 title: About Me
 description: A little about me.
-author_image: images/about/author.jpg
+author_image: images/profile.jpg
 author_signature: images/about/signature.png
 
 ---
