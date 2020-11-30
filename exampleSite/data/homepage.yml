@@ -105,14 +105,10 @@ testimonial:
     image: images/testimonial/client-1.png
     designation: Mentor
     content: Phone Number - 0415262626
-  - name: Shirley Scot
+  - name: Sam Lau
     image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
+    designation: Tech Mentor
+    content: Email - github@nicholaslau.com
   - name: Jessica Julie
     image: images/testimonial/client-1.png
     designation: CEO, Funder
